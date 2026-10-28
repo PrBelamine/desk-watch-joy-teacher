@@ -74,6 +74,11 @@ Four parts (base, shell, tray, cover), designed for Bambu Lab printers and print
 
 Built and tested on an Arduino UNO R3. Other boards are not tested yet.
 
+## Project pages
+
+- [Hackster.io](https://www.hackster.io/Pr_Belamine_Makerlab/desk-watch-joy-teacher-arduino-uno-exam-console-7a2803): build story, parts list and wiring.
+- [MakerWorld](https://makerworld.com/en/models/3508991-diy-desk-watch-joy-teacher-arduino-uno-grove): 3D files and print profiles.
+
 ## Related projects
 
 - [Desk Watch](https://github.com/PrBelamine/desk-watch): the original console with a rotary dial and a button.
