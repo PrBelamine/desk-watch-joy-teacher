@@ -68,7 +68,7 @@ The sensor sits behind a ventilation window in the tray, so it reads the room ai
 
 ## 3D-printed case
 
-Four parts (base, shell, tray, cover), designed for Bambu Lab printers and printed in PLA, with one colour per part if you like. They are the same parts as the JOY STUDENT edition. The 3D files are published only on MakerWorld (link to be added after publication). Suggested print order: base, shell, tray, cover.
+Four parts (base, shell, tray, cover), designed for Bambu Lab printers and printed in PLA, with one colour per part if you like. They are the same parts as the JOY STUDENT edition. The 3D files are published only on MakerWorld: [DIY Desk Watch JOY TEACHER | Arduino UNO Grove](https://makerworld.com/en/models/3508991-diy-desk-watch-joy-teacher-arduino-uno-grove). Suggested print order: base, shell, tray, cover.
 
 ## Status
 
